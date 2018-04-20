@@ -8,7 +8,7 @@
     <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Thu, 19 Apr 2018 14:02:01 GMT</pubDate>
+    <pubDate>Fri, 20 Apr 2018 07:42:11 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -20,13 +20,13 @@
       
         
         
-          &lt;p&gt;Everybody Welcome to Steam Boat .Web&lt;/p&gt;
+          &lt;p&gt;Everybody Welcome to Steam Boat .Web&lt;br&gt;&lt;a href=&quot;www.huangcheng.tech&quot;&gt;tech&lt;/a&gt;&lt;/p&gt;
 
         
       
       </description>
       
-      <content:encoded><![CDATA[<p>Everybody Welcome to Steam Boat .Web</p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>Everybody Welcome to Steam Boat .Web<br><a href="www.huangcheng.tech">tech</a></p>]]></content:encoded>
       
       <comments>http://steamfun.cn/2018/04/18/Steam-Boat/#disqus_thread</comments>
     </item>
